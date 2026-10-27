@@ -1,0 +1,31 @@
+from manim import *
+
+# ---------- Colors ----------
+
+BACKGROUND = "#111111"
+
+PRIMARY = BLUE_D
+SECONDARY = GREEN_D
+ACCENT = YELLOW_D
+WARNING = RED_D
+
+TEXT = WHITE
+SUBTEXT = GREY_B
+
+MATRIX = BLUE_E
+VECTOR = GREEN_E
+NEURON = TEAL_D
+WEIGHT = ORANGE
+
+# ---------- Font Sizes ----------
+
+TITLE_SIZE = 48
+SUBTITLE_SIZE = 32
+BODY_SIZE = 28
+MATH_SIZE = 38
+
+# ---------- Animation ----------
+
+DEFAULT_RUNTIME = 1
+FAST_RUNTIME = 0.5
+SLOW_RUNTIME = 2
